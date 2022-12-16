@@ -1,0 +1,60 @@
+{
+  "todo": [
+    {
+      "name": "New Project",
+      "id": 1
+    },
+    {
+      "name": "New project",
+      "id": 2
+    },
+    {
+      "name": "Operating systems",
+      "id": 3
+    }
+  ],
+  "inProgress": [
+    {
+      "name": "TO DO APP",
+      "id": 1
+    }
+  ],
+  "completed": [
+    {
+      "id": 0,
+      "name": "Open Bank Account"
+    },
+    {
+      "id": 1,
+      "name": "Write Business Plans"
+    },
+    {
+      "name": "Create Facebook Page",
+      "id": 2
+    },
+    {
+      "name": "Build Website",
+      "id": 3
+    },
+    {
+      "name": "Design Logo",
+      "id": 4
+    },
+    {
+      "name": "Finish Data Structures",
+      "id": 5
+    },
+    {
+      "name": "Finish Algorithms",
+      "id": 6
+    },
+    {
+      "name": "Recommender Apriori",
+      "id": 7
+    },
+    {
+      "name": "OOPS",
+      "id": 10
+    }
+  ]
+}
